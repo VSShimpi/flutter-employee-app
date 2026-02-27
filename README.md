@@ -74,12 +74,12 @@ Update API base URL inside Flutter project:
 ## 📱 Screenshots
 
 ### Employee List Screen
-![Employee List](screenshots/employee_list.png)
+![Employee List](screenshots/employee_list.jpeg)
 
 Example:
 
 ```dart
-const baseUrl = "http://10.0.2.2/employee_api/";
+const baseUrl = "http://YOUR_PC_IP/employee_api/";
 
 flutter pub get
 flutter run
