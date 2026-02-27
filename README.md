@@ -71,6 +71,10 @@ employee-management-system
 ### Configure API URL
 Update API base URL inside Flutter project:
 
+## 📱 Screenshots
+
+### Employee List Screen
+![Employee List](screenshots/employee_list.png)
 
 Example:
 
